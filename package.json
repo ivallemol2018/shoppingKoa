@@ -1,0 +1,33 @@
+{
+  "name": "shoppingKoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/app.test.js",
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "concurrently": "^7.5.0",
+    "ejs": "^3.1.8",
+    "knex": "^2.3.0",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-passport": "^5.0.0",
+    "koa-router": "^12.0.0",
+    "koa-session2": "^2.2.10",
+    "koa-session2-mongostore": "0.0.5",
+    "log4js": "^6.7.0",
+    "mongoose": "^6.6.7",
+    "nodemailer": "^6.8.0",
+    "passport-local": "^1.0.0",
+    "twilio": "^3.83.0"
+  }
+}

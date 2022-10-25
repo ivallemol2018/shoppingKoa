@@ -1,0 +1,144 @@
+[2022-10-09T19:24:06.720] [ERROR] error - The title should have a value
+[2022-10-09T20:42:07.266] [ERROR] error - The title should have a value
+[2022-10-09T20:43:50.770] [ERROR] error - The title should have a value
+[2022-10-09T21:08:16.879] [ERROR] error - The title should have a value
+[2022-10-09T21:13:20.646] [ERROR] error - The title should have a value
+[2022-10-09T21:15:48.720] [ERROR] error - The title should have a value
+[2022-10-09T21:19:08.513] [ERROR] error - The title should have a value
+[2022-10-09T21:20:39.706] [ERROR] error - The title should have a value
+[2022-10-09T21:20:39.715] [ERROR] error - The photo should have a value
+[2022-10-09T21:22:58.749] [ERROR] error - The title should have a value
+[2022-10-09T21:22:58.759] [ERROR] error - The photo should have a value
+[2022-10-09T21:23:42.525] [ERROR] error - The title should have a value
+[2022-10-09T21:23:42.534] [ERROR] error - The photo should have a value
+[2022-10-09T21:24:55.808] [ERROR] error - The photo should have a value
+[2022-10-09T21:25:37.437] [ERROR] error - The title should have a value
+[2022-10-09T21:25:37.446] [ERROR] error - The photo should have a value
+[2022-10-09T21:26:25.106] [ERROR] error - The title should have a value
+[2022-10-09T21:31:13.598] [ERROR] error - The title should have a value
+[2022-10-09T21:36:51.630] [ERROR] error - The title should have a value
+[2022-10-09T21:38:17.348] [ERROR] error - The title should have a value
+[2022-10-09T21:39:48.903] [ERROR] error - The title should have a value
+[2022-10-09T21:40:40.516] [ERROR] error - The title should have a value
+[2022-10-09T21:41:20.184] [ERROR] error - The title should have a value
+[2022-10-09T21:43:03.435] [ERROR] error - The title should have a value
+[2022-10-09T21:45:50.793] [ERROR] error - The title should have a value
+[2022-10-09T21:48:59.254] [ERROR] error - The title should have a value
+[2022-10-09T21:51:25.134] [ERROR] error - The title should have a value
+[2022-10-10T14:29:47.894] [ERROR] error - The title should have a value
+[2022-10-10T14:31:46.862] [ERROR] error - The title should have a value
+[2022-10-10T14:44:31.481] [ERROR] error - The title should have a value
+[2022-10-10T14:48:03.673] [ERROR] error - The title should have a value
+[2022-10-10T14:48:55.473] [ERROR] error - The title should have a value
+[2022-10-10T14:52:12.197] [ERROR] error - The title should have a value
+[2022-10-10T14:56:33.804] [ERROR] error - The title should have a value
+[2022-10-10T14:57:53.138] [ERROR] error - The title should have a value
+[2022-10-10T14:57:53.175] [ERROR] error - TypeError: Class constructor Product cannot be invoked without 'new'
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\routes\productRoutes.js:63:21
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at module.exports (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\middlewares\requireLogin.js:6:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:365:14)
+[2022-10-10T15:00:30.946] [ERROR] error - The title should have a value
+[2022-10-10T15:00:30.973] [ERROR] error - TypeError: Class constructor Product cannot be invoked without 'new'
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\routes\productRoutes.js:63:21
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at module.exports (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\middlewares\requireLogin.js:6:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:365:14)
+[2022-10-10T15:01:00.615] [ERROR] error - The title should have a value
+[2022-10-10T15:01:00.701] [ERROR] error - ReferenceError: id is not defined
+    at updateProduct (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\services\productServices.js:36:45)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\routes\productRoutes.js:68:11
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at module.exports (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\middlewares\requireLogin.js:6:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:284:15
+[2022-10-10T15:02:13.251] [ERROR] error - The title should have a value
+[2022-10-10T15:02:13.277] [ERROR] error - ReferenceError: id is not defined
+    at updateProduct (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\services\productServices.js:36:45)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\routes\productRoutes.js:68:11
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at module.exports (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\middlewares\requireLogin.js:6:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingTest\node_modules\express\lib\router\index.js:284:15
+[2022-10-10T15:03:36.177] [ERROR] error - The title should have a value
+[2022-10-10T15:10:58.856] [ERROR] error - The title should have a value
+[2022-10-10T15:11:48.056] [ERROR] error - The title should have a value
+[2022-10-10T15:15:49.663] [ERROR] error - The title should have a value
+[2022-10-10T15:16:17.308] [ERROR] error - The title should have a value
+[2022-10-10T15:39:46.864] [ERROR] error - The title should have a value
+[2022-10-10T15:45:37.678] [ERROR] error - The title should have a value
+[2022-10-24T00:20:52.195] [ERROR] error - ReferenceError: getProducts is not defined
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\routes\productRoutes.js:14:26
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:425:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:430:31)
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:150:19)
+[2022-10-24T14:28:32.472] [ERROR] error - TypeError: Cannot destructure property 'title' of 'ctx.request.body' as it is undefined.
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\routes\productRoutes.js:37:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:425:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:430:31)
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:150:19)
+[2022-10-24T14:29:22.446] [ERROR] error - TypeError: Cannot destructure property 'title' of 'ctx.request.body' as it is undefined.
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\routes\productRoutes.js:39:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:425:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:430:31)
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:150:19)
+[2022-10-24T14:30:10.817] [ERROR] error - TypeError: Cannot destructure property 'title' of 'ctx.request.body' as it is undefined.
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\routes\productRoutes.js:39:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:425:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:430:31)
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:150:19)
+[2022-10-24T14:30:46.254] [ERROR] error - TypeError: Cannot destructure property 'title' of 'ctx.request.body' as it is undefined.
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\routes\productRoutes.js:39:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:425:16
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-router\lib\router.js:430:31)
+    at dispatch (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa-compose\index.js:34:12
+    at Application.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:168:12)
+    at Server.handleRequest (C:\Users\HP\Documents\Husband\gitlab\coderhouse\desafios\shoppingKoa\node_modules\koa\lib\application.js:150:19)
